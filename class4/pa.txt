@@ -1,0 +1,4 @@
+			NoCoda	Max	Dep
+			NoCoda	Max	Dep
+/pa/	pa	1			
+	pat		1		1

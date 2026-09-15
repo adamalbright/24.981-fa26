@@ -1,0 +1,8 @@
+			NoCoda	NoCodaObs	Max	Dep
+			NoCoda	NoCodaObs	Max	Dep
+/pat/	pat		1	1		
+	pa	1			1	
+	patə					1
+/pak/	pak		1	1		
+	pa	1			1	
+	pakə					1
