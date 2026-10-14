@@ -1,0 +1,89 @@
+Orthog	Unicode	DISC	AH2003	Replicate2006
+bize	baɪz	b2z	4.578947368	5.444444444
+blafe	blef	bl1f	4.210526316	4.25
+blig	blɪg	blIg	3.526315789	4.578947368
+bredge	brɛdʒ	brE_	3.947368421	5.055555556
+chake	tʃek	J1k	5.052631579	5.210526316
+chind	tʃaɪnd	J2nd	4.368421053	4.6
+chool	tʃul	Jul	3.421052632	4.052631579
+dape	dep	d1p	5.105263158	5.473684211
+dize	daɪz	d2z	4.842105263	4.9
+drice	draɪs	dr2s	3.842105263	4.684210526
+drit	drɪt	drIt	4.157894737	4.75
+dwoge	dwoʊdʒ	dw5_	2.294117647	2.789473684
+fleep	flip	flip	4.157894737	
+flet	flɛt	flEt	4	4.705882353
+flidge	flɪdʒ	flI_	3.789473684	4.6
+frilg	frɪlg	frIlg	2.684210526	3.473684211
+gare	gɛər	g8R	5.105263158	4.9
+ghez	gɛz	gEz	4.210526316	4.157894737
+gleed	glid	glid	5.052631579	4.789473684
+glip	glɪp	glIp	4.526315789	5.3
+glit	glɪt	glIt	5.105263158	5.055555556
+graint	graɪnt	gr2nt	5	4.875
+grell	grɛl	grEl	4.631578947	5.125
+gude	gud	gud	4.315789474	4.8
+gwenge	gwɛndʒ	gwEn_	3.315789474	2.894736842
+kive	kɪv	k2v	4.052631579	4.3
+krilg	krɪlg	krIlg	2.578947368	3.95
+lum	lʌm	lVm	4.789473684	5.4
+mip	mɪp	mIp	5.473684211	
+murn	mɜn	m3n	5.421052632	5.3
+nace	nes	n1s	4.842105263	4.789473684
+nold	noʊld	n5ld	4	4.888888889
+nung	nʌŋ	nVN	3.277777778	3.3
+pank	pæŋk	p{Nk	5.631578947	
+pint	pɪnt	p2nt	5.666666667	
+plake 	plek	pl1k	5.388888889	
+plim	plɪm	plIm	4.368421053	5.055555556
+ploamph	ploʊmf	pl5mf	2.421052632	3.454545455
+plonth	ploʊnθ	pl5nT	2.263157895	2
+preak	prik	prik	5	
+pum	pʌm	pVm	4.789473684	5.35
+pwip	pwɪp	pwIp	2.894736842	3.944444444
+pwuds	pwʌdz	pwVdz	1.736842105	1.928571429
+queed	kwid	kwid	3.947368421	4.105263158
+raint	raɪnt	r2nt	2.894736842	4.210526316
+rask	ræsk	r{sk	5.210526316	5.65
+rife	raɪf	r2f	5.526315789	
+scoil	skɔɪl	sk4l	3.894736842	4.125
+sfuned	sfund	sfund	2.944444444	
+shaint	ʃaɪnt	S2nt	3.421052632	3.777777778
+shilk	ʃɪlk	SIlk	4.894736842	4.166666667
+shrooks	ʃruks	Sruks	3.315789474	3.444444444
+shurn	ʃɜn	S3n	5.105263158	5.3
+shwouge	ʃwuʒ	SwuZ	2.684210526	2.285714286
+skell	skɛl	skEl	5.105263158	
+skick	skɪk	skIk	4	3.95
+skluned	sklund	sklund	2.833333333	3.315789474
+skride	skraɪd	skr2d	4.111111111	5
+slame	slem	sl1m	5.842105263	4.421052632
+smairf	smɛəf	sm8f	2.473684211	3.692307692
+smairg	smɛəg	sm8g	2.578947368	2.55
+smeelth	smilθ	smilT	2.473684211	
+smeenth	sminθ	sminT	2.055555556	2.5
+smeerg	smɪəg	sm7g	2.789473684	3.368421053
+smum	smʌm	smVm	3.052631579	3.1
+snell	snɛl	snEl	5.315789474	
+snoiks	snɔɪks	sn4ks	3	2.8
+spack	spæk	sp{k	5.157894737	
+spling	splɪŋ	splIN	4.722222222	5.35
+sprarf	sprɑf	spr#f	2.052631579	
+squalk	skwoʊlk	skw5lk	3.263157895	4.764705882
+squill	skwɪl	skwIl	4.833333333	5.315789474
+stin	stɪn	stIn	5.277777778	4.65
+stip	stɪp	stIp	5.526315789	5.55
+stire	staɪər	st2@R	5.473684211	5.7
+tark	tɑk	t#k	5.105263158	5.368421053
+teep	tip	tip	4.631578947	5.25
+tesh	tɛʃ	tES	4.631578947	4.45
+thaped	θept	T1pt	2.263157895	2.916666667
+throiks	θrɔɪks	Tr4ks	2.684210526	2.157894737
+thweeks	θwiks	Twiks	2.526315789	2.142857143
+trilb	trɪlb	trIlb	2.631578947	3.5
+trisk	trɪsk	trIsk	5.210526316	5.444444444
+tunk	tʌŋk	tVNk	4.842105263	4.75
+twu	twu	twu	3.166666667	3.166666667
+whiss	wɪs	wIs	5.842105263	4.842105263
+zapes	zeps	z1ps	3.473684211	2.85
+zay	ze	z1	4.157894737	3.9
