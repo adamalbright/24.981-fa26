@@ -68,7 +68,7 @@ snell	snɛl	snEl	5.315789474
 snoiks	snɔɪks	sn4ks	3	2.8
 spack	spæk	sp{k	5.157894737	
 spling	splɪŋ	splIN	4.722222222	5.35
-sprarf	sprɑf	spr#f	2.052631579	
+sprarf	sprɑrf	spr#f	2.052631579	
 squalk	skwoʊlk	skw5lk	3.263157895	4.764705882
 squill	skwɪl	skwIl	4.833333333	5.315789474
 stin	stɪn	stIn	5.277777778	4.65

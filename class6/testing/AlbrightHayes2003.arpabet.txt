@@ -1,0 +1,89 @@
+Orthog	Unicode	DISC	AH2003	Replicate2006	ARPABET	ARPABET_1_BEFORE_VOWEL
+bize	baɪz	b2z	4.578947368	5.444444444	B AY Z	B 1 AY Z
+blafe	blef	bl1f	4.210526316	4.25	B L EY F	B L 1 EY F
+blig	blɪg	blIg	3.526315789	4.578947368	B L IH G	B L 1 IH G
+bredge	brɛdʒ	brE_	3.947368421	5.055555556	B R EH JH	B R 1 EH JH
+chake	tʃek	J1k	5.052631579	5.210526316	CH EY K	CH 1 EY K
+chind	tʃaɪnd	J2nd	4.368421053	4.6	CH AY N D	CH 1 AY N D
+chool	tʃul	Jul	3.421052632	4.052631579	CH UW L	CH 1 UW L
+dape	dep	d1p	5.105263158	5.473684211	D EY P	D 1 EY P
+dize	daɪz	d2z	4.842105263	4.9	D AY Z	D 1 AY Z
+drice	draɪs	dr2s	3.842105263	4.684210526	D R AY S	D R 1 AY S
+drit	drɪt	drIt	4.157894737	4.75	D R IH T	D R 1 IH T
+dwoge	dwoʊdʒ	dw5_	2.294117647	2.789473684	D W OW JH	D W 1 OW JH
+fleep	flip	flip	4.157894737		F L IY P	F L 1 IY P
+flet	flɛt	flEt	4	4.705882353	F L EH T	F L 1 EH T
+flidge	flɪdʒ	flI_	3.789473684	4.6	F L IH JH	F L 1 IH JH
+frilg	frɪlg	frIlg	2.684210526	3.473684211	F R IH L G	F R 1 IH L G
+gare	gɛər	g8R	5.105263158	4.9	G EH R	G 1 EH R
+ghez	gɛz	gEz	4.210526316	4.157894737	G EH Z	G 1 EH Z
+gleed	glid	glid	5.052631579	4.789473684	G L IY D	G L 1 IY D
+glip	glɪp	glIp	4.526315789	5.3	G L IH P	G L 1 IH P
+glit	glɪt	glIt	5.105263158	5.055555556	G L IH T	G L 1 IH T
+graint	graɪnt	gr2nt	5	4.875	G R AY N T	G R 1 AY N T
+grell	grɛl	grEl	4.631578947	5.125	G R EH L	G R 1 EH L
+gude	gud	gud	4.315789474	4.8	G UW D	G 1 UW D
+gwenge	gwɛndʒ	gwEn_	3.315789474	2.894736842	G W EH N JH	G W 1 EH N JH
+kive	kɪv	k2v	4.052631579	4.3	K IH V	K 1 IH V
+krilg	krɪlg	krIlg	2.578947368	3.95	K R IH L G	K R 1 IH L G
+lum	lʌm	lVm	4.789473684	5.4	L AH M	L 1 AH M
+mip	mɪp	mIp	5.473684211		M IH P	M 1 IH P
+murn	mɜn	m3n	5.421052632	5.3	M ER N	M 1 ER N
+nace	nes	n1s	4.842105263	4.789473684	N EY S	N 1 EY S
+nold	noʊld	n5ld	4	4.888888889	N OW L D	N 1 OW L D
+nung	nʌŋ	nVN	3.277777778	3.3	N AH NG	N 1 AH NG
+pank	pæŋk	p{Nk	5.631578947		P AE NG K	P 1 AE NG K
+pint	pɪnt	p2nt	5.666666667		P IH N T	P 1 IH N T
+plake 	plek	pl1k	5.388888889		P L EY K	P L 1 EY K
+plim	plɪm	plIm	4.368421053	5.055555556	P L IH M	P L 1 IH M
+ploamph	ploʊmf	pl5mf	2.421052632	3.454545455	P L OW M F	P L 1 OW M F
+plonth	ploʊnθ	pl5nT	2.263157895	2	P L OW N TH	P L 1 OW N TH
+preak	prik	prik	5		P R IY K	P R 1 IY K
+pum	pʌm	pVm	4.789473684	5.35	P AH M	P 1 AH M
+pwip	pwɪp	pwIp	2.894736842	3.944444444	P W IH P	P W 1 IH P
+pwuds	pwʌdz	pwVdz	1.736842105	1.928571429	P W AH D Z	P W 1 AH D Z
+queed	kwid	kwid	3.947368421	4.105263158	K W IY D	K W 1 IY D
+raint	raɪnt	r2nt	2.894736842	4.210526316	R AY N T	R 1 AY N T
+rask	ræsk	r{sk	5.210526316	5.65	R AE S K	R 1 AE S K
+rife	raɪf	r2f	5.526315789		R AY F	R 1 AY F
+scoil	skɔɪl	sk4l	3.894736842	4.125	S K OY L	S K 1 OY L
+sfuned	sfund	sfund	2.944444444		S F UW N D	S F 1 UW N D
+shaint	ʃaɪnt	S2nt	3.421052632	3.777777778	SH AY N T	SH 1 AY N T
+shilk	ʃɪlk	SIlk	4.894736842	4.166666667	SH IH L K	SH 1 IH L K
+shrooks	ʃruks	Sruks	3.315789474	3.444444444	SH R UW K S	SH R 1 UW K S
+shurn	ʃɜn	S3n	5.105263158	5.3	SH ER N	SH 1 ER N
+shwouge	ʃwuʒ	SwuZ	2.684210526	2.285714286	SH W UW ZH	SH W 1 UW ZH
+skell	skɛl	skEl	5.105263158		S K EH L	S K 1 EH L
+skick	skɪk	skIk	4	3.95	S K IH K	S K 1 IH K
+skluned	sklund	sklund	2.833333333	3.315789474	S K L UW N D	S K L 1 UW N D
+skride	skraɪd	skr2d	4.111111111	5	S K R AY D	S K R 1 AY D
+slame	slem	sl1m	5.842105263	4.421052632	S L EY M	S L 1 EY M
+smairf	smɛəf	sm8f	2.473684211	3.692307692	S M EH R F	S M 1 EH R F
+smairg	smɛəg	sm8g	2.578947368	2.55	S M EH R G	S M 1 EH R G
+smeelth	smilθ	smilT	2.473684211		S M IY L TH	S M 1 IY L TH
+smeenth	sminθ	sminT	2.055555556	2.5	S M IY N TH	S M 1 IY N TH
+smeerg	smɪəg	sm7g	2.789473684	3.368421053	S M IH R G	S M 1 IH R G
+smum	smʌm	smVm	3.052631579	3.1	S M AH M	S M 1 AH M
+snell	snɛl	snEl	5.315789474		S N EH L	S N 1 EH L
+snoiks	snɔɪks	sn4ks	3	2.8	S N OY K S	S N 1 OY K S
+spack	spæk	sp{k	5.157894737		S P AE K	S P 1 AE K
+spling	splɪŋ	splIN	4.722222222	5.35	S P L IH NG	S P L 1 IH NG
+sprarf	sprɑrf	spr#f	2.052631579		S P R AA R F	S P R 1 AA R F
+squalk	skwoʊlk	skw5lk	3.263157895	4.764705882	S K W OW L K	S K W 1 OW L K
+squill	skwɪl	skwIl	4.833333333	5.315789474	S K W IH L	S K W 1 IH L
+stin	stɪn	stIn	5.277777778	4.65	S T IH N	S T 1 IH N
+stip	stɪp	stIp	5.526315789	5.55	S T IH P	S T 1 IH P
+stire	staɪər	st2@R	5.473684211	5.7	S T AY ER	S T 1 AY 1 ER
+tark	tɑk	t#k	5.105263158	5.368421053	T AA K	T 1 AA K
+teep	tip	tip	4.631578947	5.25	T IY P	T 1 IY P
+tesh	tɛʃ	tES	4.631578947	4.45	T EH SH	T 1 EH SH
+thaped	θept	T1pt	2.263157895	2.916666667	TH EY P T	TH 1 EY P T
+throiks	θrɔɪks	Tr4ks	2.684210526	2.157894737	TH R OY K S	TH R 1 OY K S
+thweeks	θwiks	Twiks	2.526315789	2.142857143	TH W IY K S	TH W 1 IY K S
+trilb	trɪlb	trIlb	2.631578947	3.5	T R IH L B	T R 1 IH L B
+trisk	trɪsk	trIsk	5.210526316	5.444444444	T R IH S K	T R 1 IH S K
+tunk	tʌŋk	tVNk	4.842105263	4.75	T AH NG K	T 1 AH NG K
+twu	twu	twu	3.166666667	3.166666667	T W UW	T W 1 UW
+whiss	wɪs	wIs	5.842105263	4.842105263	W IH S	W 1 IH S
+zapes	zeps	z1ps	3.473684211	2.85	Z EY P S	Z 1 EY P S
+zay	ze	z1	4.157894737	3.9	Z EY	Z 1 EY
