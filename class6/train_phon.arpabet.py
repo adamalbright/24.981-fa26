@@ -3,7 +3,7 @@ Tiny token-level transformer for an ARPABET word list.
 Expects a UTF-8 text file with one space-delimited pronunciation per line.
 
 Usage:
-    python train_phon.py --data wordlist.txt
+    python train_phon.arpabet.py --data wordlist.txt
 """
 import argparse, math, random, unicodedata
 from collections import Counter
